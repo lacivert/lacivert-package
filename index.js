@@ -1,1 +1,1 @@
-console.log("Hello Package!")
+module.exports = name => `Hello from Github Packages, ${name}!`;
