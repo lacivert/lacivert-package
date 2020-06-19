@@ -5,7 +5,7 @@
     "url": "https://github.com/lacivert/lacivert-package.git",
     "directory": "packages/name"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
